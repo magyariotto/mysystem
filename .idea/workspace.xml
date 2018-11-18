@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55150b82-25c6-4e46-b164-6df2f98ad403" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-270641003">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="14" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="3" />
+          <entry key="css" value="1" />
+          <entry key="html" value="4" />
+          <entry key="java" value="348" />
+          <entry key="php" value="1" />
+          <entry key="properties" value="3" />
+          <entry key="xml" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="3" />
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="4" />
+          <entry key="JAVA" value="348" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="3" />
+          <entry key="XML" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="class" value="20" />
+          <entry key="html" value="327" />
+          <entry key="java" value="6069" />
+          <entry key="properties" value="65" />
+          <entry key="xml" value="106" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CLASS" value="20" />
+          <entry key="HTML" value="327" />
+          <entry key="JAVA" value="6069" />
+          <entry key="Properties" value="65" />
+          <entry key="XML" value="106" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1719959849">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/controller/PageController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/repository/UserRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/controller/request/RegisterUserRequest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>skyxplore</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/controller/request/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/domain/accesstoken/AccessTokenConverter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/domain/credentials/CredentialsConverter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/domain/character/CharacterConverter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/domain/user/UserConverter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/controller/view/GameDataController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/controller/view/community/friendrequest/FriendRequestView.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/controller/view/community/mail/MailViewConverter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/controller/view/community/friend/FriendViewConverter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/controller/view/community/friendrequest/FriendRequestViewConverter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/controller/view/LobbyController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/service/GameFacade.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/service/game/LobbyCreatorService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/service/MailFacade.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/controller/view/MailController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/controller/view/product/ProductViewConverter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/service/ProductFacade.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/service/FactoryFacade.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/service/factory/FactoryQueryService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/service/factory/AddToQueueService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/controller/view/FactoryController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/exception/base/FactoryNotFoundException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/exception/FactoryNotFoundException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/service/product/ProductQueryService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/controller/view/CommunityController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/service/CommunityFacade.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/service/EquippedShipFacade.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/exception/base/BadSlotNameException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/exception/BadSlotNameException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/service/ship/EquipService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/service/ship/EquipUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/service/ship/EquipShipService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/service/ship/ShipQueryService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/controller/view/ship/ShipView.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/controller/view/slot/SlotViewConverter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/controller/view/ship/ShipViewConverter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/controller/view/ShipController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/service/product/ProductFactoryService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/service/ship/UnequipService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/controller/view/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/config/ThymeleafConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/controller/request/RegisterUserRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/domain/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/repository/UserReponsitory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/repository/UserRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/public/html/index.html" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/Application.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/controller/PageController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mysystem/controller/UserController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mysystem" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="373" />
+    <option name="y" value="158" />
+    <option name="width" value="1402" />
+    <option name="height" value="714" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>EncapsulationJava</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Production'; set:Production; class com.intellij.psi.search.scope.ProjectProductionScope">
+          <expand>
+            <path>
+              <item name="mysystem" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="mysystem" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="mysystem" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="mysystem" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="mysystem" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="mysystem" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="mysystem" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="mysystem" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="mysystem" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="mysystem" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="mysystem" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mysystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mysystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mysystem" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mysystem" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mysystem" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="request" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mysystem" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mysystem" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="entityManagerFactory&#9;PSI&#9;JAVA://javax.persistence.EntityManagerFactory&#10;dataq&#9;PSI&#9;JAVA://mysystem.service.gamedata.DataQueryService&#10;gamedataf&#9;PSI&#9;JAVA://mysystem.service.GameDataFacade&#10;gameda&#9;FILE&#9;file://A:/mysystem/src/main/java/mysystem/configuration/GameDataConfig.java&#10;armors&#9;PSI&#9;JAVA://mysystem.dataaccess.gamedata.subservice.ArmorService&#10;login&#9;FILE&#9;file://A:/mysystem/src/main/java/mysystem/controller/view/LoginController.java&#10;game&#9;PSI&#9;JAVA://mysystem.configuration.GameDataConfig&#10;acc&#9;PSI&#9;JAVA://mysystem.dataaccess.db.AccessTokenDao" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542531281564" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="A:\mysystem\src\main\java" />
+      <recent name="A:\mysystem\src\main" />
+      <recent name="A:\mysystem\src\main\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="A:\mysystem\src\main\java\mysystem\controller\view" />
+      <recent name="A:\mysystem\src\main\java\mysystem\service" />
+      <recent name="A:\mysystem\src\main\java\mysystem\domain" />
+      <recent name="A:\mysystem\src\main\java\mysystem" />
+      <recent name="A:\mysystem\src\main\java\mysystem\dataaccess\db" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="mysystem.exception" />
+      <recent name="mysystem.exception.base" />
+      <recent name="mysystem.service" />
+      <recent name="mysystem.service.game" />
+      <recent name="mysystem.domain.user" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="mysystem.controller.request" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mysystem.Application" />
+      <module name="mysystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mysystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55150b82-25c6-4e46-b164-6df2f98ad403" name="Default Changelist" comment="" />
+      <created>1540313482253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540313482253</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="886" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23495702" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32845744" />
+      <window_info anchor="bottom" x="0" y="0" width="1434" height="841" id="Run" order="2" sideWeight="0.497851" weight="0.28723404" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.4162234" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32845744" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.502149" side_tool="true" weight="0.28723404" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" x="0" y="23" width="1440" height="847" id="Messages" order="10" weight="0.6781915" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32910448" />
+    </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/exception/base/FactoryNotFoundException.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/exception/FactoryNotFoundException.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/service/factory/FactoryQueryService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/service/product/ProductQueryService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/service/ProductFacade.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/service/CommunityFacade.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/controller/view/CommunityController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/exception/base/BadSlotNameException.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/service/ship/EquipService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/service/ship/EquipShipService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/controller/view/slot/SlotViewConverter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/controller/view/slot/SlotView.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/controller/view/ship/ShipView.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/controller/view/ship/ShipViewConverter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/service/ship/ShipQueryService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/service/EquippedShipFacade.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/exception/BadSlotNameException.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/controller/view/ShipController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/dataaccess/gamedata/subservice/ArmorService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/configuration/GameDataConfig.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/service/gamedata/DataQueryService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/service/GameDataFacade.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/service/product/ProductFactoryService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/service/character/CharacterQueryService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/service/ship/UnequipService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/controller/view/community/mail/MailViewConverter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/service/ship/EquipUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/controller/view/MailController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/controller/view/LoginController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/filter/AuthFilter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/service/credentials/CredentialsService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/exception/BadCredentialsException.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/exception/AccessTokenExpiredException.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/exception/base/BadRequestException.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/encryption/base/Encryptor.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/encryption/base/AbstractEncryptor.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/domain/Converter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/repository/UserReponsitory.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/config/ThymeleafConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/target/classes/testserver/config/ThymeleafConfig.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar!/javax/persistence/EntityManagerFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/domain/User.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/html/index.html" />
+    <entry file="file://$USER_HOME$/Desktop/mysystem/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2079">
+          <caret line="12" column="59" lean-forward="true" selection-end-line="157" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/controller/PageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/repository/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mysystem/controller/request/RegisterUserRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>mysystem</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>

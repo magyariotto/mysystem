@@ -1,0 +1,119 @@
+body{
+	background-size:	 cover;
+	background-repeat:   no-repeat;
+    background-position: center center;
+}
+.fotabla{
+	border-width:	4px;
+	border-style:	outset;
+	border-color:	rgb(38, 38, 38);
+	border-radius:  10px 10px 10px 10px;
+	min-height:		100%;
+	min-width:		100%;
+	color:			white;
+}
+.login{
+	border-width:	4px;
+	border-style:	outset;
+	border-color:	rgb(38, 38, 38);
+	border-radius:  10px 10px 10px 10px;
+	min-height:		360px;
+	min-width:		480px;
+	color:			white;
+	text-align:		center;
+	margin:			auto;
+	background-color: rgba(0, 0, 0, 0.6);
+}
+.fejlec{
+	border-width:	2px;
+	border-style:	inset;
+	border-color:	rgb(38, 38, 38);
+	border-radius:  5px 5px 5px 5px;
+	height:			20px;
+	color:			white;
+}
+#nd{
+	
+}
+.kozepe{
+	text-align: center;
+}
+.alja{
+	height:		20px;
+	text-align: center;
+}
+#kilepes{
+	height: 			22px;
+	width:				25px;
+	background:			transparent;
+	background-image:	url("gomb_kilepes.png");
+	background-repeat:	no-repeat;
+	background-size:	22px 22px;
+	border-color:		transparent;
+}
+#szerkesztes{
+	height: 			22px;
+	width:				25px;
+	background:			transparent;
+	background-image:	url("szerkesztes.png");
+	background-repeat:	no-repeat;
+	background-size:	22px 22px;
+	border-color:		transparent;
+	cursor:				pointer;
+}
+#torles{
+	height: 			22px;
+	width:				25px;
+	background:			transparent;
+	background-image:	url("torles.png");
+	background-repeat:	no-repeat;
+	background-size:	22px 22px;
+	border-color:		transparent;
+	cursor:				pointer;
+}
+::-webkit-scrollbar {
+	width: 15px;
+	cursor: pointer;
+}
+::-webkit-scrollbar-track {
+	-webkit-box-shadow: inset 0 0 60px rgba(0,0,0,0.2); 
+	border-radius: 15px;
+}
+::-webkit-scrollbar-thumb {
+	border-radius: 15px;
+	-webkit-box-shadow: inset 0 0 20px rgba(0,0,0,1); 
+}
+::-webkit-scrollbar-button:start {
+	border-radius: 100px 100px 0px 0px;
+	-webkit-box-shadow: inset 0 0 20px rgba(0,0,0,1); 
+}
+::-webkit-scrollbar-button:end {
+	border-radius: 0px 0px 100px 100px;
+	-webkit-box-shadow: inset 0 0 20px rgba(0,0,0,1); 
+}
+.projekt_tomb{
+	width: 280px;
+	height: 150px;
+}
+#banya_lista_div{
+	height: 635px;
+	overflow-y: scroll;
+	cursor: pointer;
+}
+#projekt_modul{
+	border-style: outset;
+	border-width: 4px;
+	border-color: rgb(38, 38, 38);
+	border-radius: 10px 10px 10px 10px;
+	background-color: rgba(0, 0, 0, 0.4);
+	width: 280px;
+	height: 150px;
+	cursor: pointer;
+	color: white;
+	background-size: 100% 100%;
+}
+#projekt_modul:hover{
+	border-radius: 10px 10px 10px 10px;
+	box-shadow: 0 0 10px 3px white;
+	color: red;
+}

@@ -4,7 +4,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RestController;
 import mysystem.controller.request.RegisterUserRequest;
-import mysystem.domain.User;
+import mysystem.domain.MsUser;
 import mysystem.repository.UserRepository;
 
 import java.util.List;
@@ -19,14 +19,14 @@ public class UserController {
 
     @PostMapping("/user")
     public void registerUser(RegisterUserRequest request){
-        User user = new User();
-        user.setUserName(request.getUserName());
-        user.setPassword(request.getPassword());
-        userRepository.save(user);
+        MsUser msUser = new MsUser();
+        msUser.setUserName(request.getUserName());
+        msUser.setPassword(request.getPassword());
+        userRepository.save(msUser);
     }
 
     @GetMapping("/user")
-    public List<User> getUser(){
+    public List<MsUser> getUser(){
         return userRepository.findAll();
     }
 }

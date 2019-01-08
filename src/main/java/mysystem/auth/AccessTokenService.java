@@ -1,7 +1,9 @@
-package mysystem.auth;
+package mysystem.service;
 
 import com.github.saphyra.authservice.domain.AccessToken;
 import lombok.RequiredArgsConstructor;
+import mysystem.repository.AccessTokenRepository;
+import mysystem.auth.MsAccessToken;
 import org.springframework.stereotype.Component;
 
 import java.time.LocalDateTime;

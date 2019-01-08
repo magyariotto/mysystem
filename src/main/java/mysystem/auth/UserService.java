@@ -1,4 +1,4 @@
-package mysystem.auth;
+package mysystem.service;
 
 import com.github.saphyra.authservice.domain.Credentials;
 import com.github.saphyra.authservice.domain.User;

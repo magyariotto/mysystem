@@ -1,63 +1,43 @@
 <html>
 <head>
-    <title>Belépés/Regisztráció</title>
-    <META charset='utf-8'>
-    <LINK rel="stylesheet" href="/css/classes.css">
-    <link rel="stylesheet" href="/css/index/index.css">
-
-    <SCRIPT src="js/common/jquery.js"></SCRIPT>
-    <SCRIPT src="js/common/common_base.js"></SCRIPT>
-
-    <script src="js/index/login_form_controller.js"></script>
+	<title>Hello</title>
+	<link rel="stylesheet" type="text/css" href="css/index.css">
 </head>
-<body background="img/hatter_body.png" style="background-color:transparent;">
-
-<table id="fejlec" align="center">
-    <tr>
-        <td style="width:705px;">
-            <a><img src="img/logo.png"></a>
-        </td>
-        <td style="width:705px;float:right;">
-            <form method="post">
-                <table id="belepes_tabla">
-                    <tr>
-                        <td style="color:white;"  align="center"><font size="1">Felhaszálónév:</font></td>
-                        <td style="color:white;"  align="center"><font size="1">Jelszó:</font></td>
-                    </tr>
-                    <tr>
-                        <td><input type="text" id="userName" class="logininput" placeholder="Felhasználónév" required autofocus></td>
-                        <td><input type="password" id="password" class="logininput" placeholder="Jelszó" required></td>
-                        <td rowspan="2" align="center"><button id='login_button' onclick="loginController.sendForm()">Belépek</button></td>
-                    </tr>
-                </table>
-            </form>
-        </td>
-    </tr>
+<body background="img/background.jpg">
+<table class="fotabla">
+	<tr>
+		<td class="fejlec">
+			<div style="float: left; display: inline; height: 1px; margin: 0px 0px 15px 0px;" id="nd"></div>
+		</td>
+	</tr>
+	<tr>
+		<td class="kozepe">
+			<form method="post" action="/login">
+				<table class="login">
+					<tr>
+						<td colspan="2">MySystem Bejelentkezes</td>
+					</tr>
+					<tr>
+						<td height="10">Felhasznalonev:</td>
+						<td height="10"><input type="text" name="userName" value=""></td>
+					</tr>
+					<tr>
+						<td height="10">Jelszo:</td>
+						<td height="10"><input type="password" name="password" value=""></td>
+					</tr>
+					<tr>
+						<td colspan="2"><input id="belepes_input" type="submit" name="login" value="Belépek"></td>
+					</tr>
+				</table>
+			</form>
+		</td>
+	</tr>
+	<tr>
+		<td class="alja">PoverBy: Magyari Ottó @2018</td>
+	</tr>
 </table>
-<table align="center">
-    <tr>
-        <td id="kozep_td1"><p>Egyes blok</p></td>
-        <td id="kozep_td2">
-            <h1>Regisztráció</h1>
 
-            <p><input id="reg_felhasznalonev" name="username" placeholder="Felhasznalonev" class="inputs"></p>
 
-            <p><input id="reg_emailcim" name="email" placeholder="Emailcim" class="inputs"></p>
 
-            <p><input type="password" id="reg_jelszo1" placeholder="Jelszó" class="inputs"></p>
-
-            <p><input type="password" id="reg_jelszo2" placeholder="Jelszó ujra" class="inputs"></p>
-
-            <input type="radio" name="nem" id="ferfi" value="Ferfi">Ferfi
-            <input type="radio" name="nem" id="no" value="No">No
-
-            <p><button onclick='regisztracio()'>Regisztráció</button></p>
-        </td>
-        <td id="kozep_td1"><p>Harmas blok</p></td>
-    </tr>
-    <tr>
-        <td id="alja" colspan="3">PoverBy: Magyari Ottó @2018</td>
-    </tr>
-</table>
 </body>
 </html>
